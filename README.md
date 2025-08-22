@@ -44,6 +44,7 @@ Go to [Firebase Console](https://console.firebase.google.com/) and create a proj
 
 ### 3. Add Firebase Config
 Replace your config in `index.html`:
+<img width="1879" height="878" alt="image" src="https://github.com/user-attachments/assets/c888e8dc-2073-4297-8cb4-9e0626f0717e" />
 
 ```javascript
 const firebaseConfig = {
@@ -55,5 +56,4 @@ const firebaseConfig = {
   appId: "your-app-id"
 };
 
-<img width="1879" height="878" alt="image" src="https://github.com/user-attachments/assets/a6eded51-6b68-46b8-a8ed-964ed811f311" />
 
