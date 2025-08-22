@@ -54,3 +54,6 @@ const firebaseConfig = {
   messagingSenderId: "your-sender-id",
   appId: "your-app-id"
 };
+
+<img width="1879" height="878" alt="image" src="https://github.com/user-attachments/assets/a6eded51-6b68-46b8-a8ed-964ed811f311" />
+
