@@ -3,6 +3,7 @@
 Sync Chat is a lightweight, real-time chat application that allows users to create chat rooms and communicate instantly by sharing a simple room key.  
 It’s built with Firebase and works seamlessly across devices.
 
+link- https://sync-chat-app-clbu.onrender.com/
 ---
 
 ## 🚀 Features
